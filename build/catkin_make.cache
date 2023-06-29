@@ -1,0 +1,2 @@
+a_config:learning_communication:mini_controller:mini_launch:mini_urdf:roscpp:rospy:std_msgs
+-DCATKIN_DEVEL_PREFIX=/home/lilgod/mini_project/devel -DCMAKE_INSTALL_PREFIX=/home/lilgod/mini_project/install -G Unix Makefiles

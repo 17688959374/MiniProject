@@ -1,0 +1,8 @@
+prefix=/home/lilgod/mini_project/install
+
+Name: mini_launch
+Description: Description of mini_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

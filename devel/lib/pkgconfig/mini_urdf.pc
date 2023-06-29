@@ -1,0 +1,8 @@
+prefix=/home/lilgod/mini_project/devel
+
+Name: mini_urdf
+Description: Description of mini_urdf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
